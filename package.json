@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "yarn": "^1.22.17"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^4.7.4"
+  }
+}
